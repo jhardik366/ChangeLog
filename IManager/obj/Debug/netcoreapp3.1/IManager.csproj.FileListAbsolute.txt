@@ -1,0 +1,13 @@
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\bin\Debug\netcoreapp3.1\IManager.deps.json
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\bin\Debug\netcoreapp3.1\IManager.dll
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\bin\Debug\netcoreapp3.1\IManager.pdb
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.csproj.AssemblyReference.cache
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.AssemblyInfoInputs.cache
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.AssemblyInfo.cs
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.csproj.CoreCompileInputs.cache
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.dll
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.pdb
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\bin\Debug\netcoreapp3.1\IRepository.dll
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\bin\Debug\netcoreapp3.1\IRepository.pdb
+C:\Users\hemant.dutt\source\repos\ChangeLogSp1\IManager\obj\Debug\netcoreapp3.1\IManager.csproj.CopyComplete
