@@ -32,6 +32,15 @@ namespace ChangeLogSp1Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("default",
+                builder =>
+                {
+                    builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                });
+            });
+
             services.AddDbContext<ChangeLogDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("AdminDb")));
 
             var mapperConfig = new MapperConfiguration(mc =>
@@ -60,6 +69,8 @@ namespace ChangeLogSp1Api
             app.UseRouting();
 
             app.UseAuthorization();
+            
+            app.UseCors("default");
 
             app.UseEndpoints(endpoints =>
             {
